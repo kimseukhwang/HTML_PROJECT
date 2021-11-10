@@ -1,1 +1,7 @@
-# HTML_PROJECT
+# HTML_PROJECT  
+
+ **201710901 컴퓨터과학과 김석황입니다.**  
+
+*HTML  
+*CSS  
+공학설계 입문 개인과제 깃허브 
